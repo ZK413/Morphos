@@ -42,6 +42,7 @@ class NounPluralization extends \morphos\BasePluralization implements Cases
         'полотенце' => 'полотенец',
         'гривна' => 'гривен',
         'год' => 'лет',
+        'папка' => 'папок',
     ];
 
     /**
